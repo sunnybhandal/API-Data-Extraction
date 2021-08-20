@@ -1,4 +1,4 @@
-# mini-project-I
+# API Data Extraction
 
 ## Transport of London API
 Extracting data from different APIs regarding modes of transport, line details, and trip length.
